@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  10,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v2.0.0/Kiotly-2.0.0-release.apk",
-    "changelog":  "Kiotly 2.0: sổ công nợ và thu nợ; trả hàng hoàn kho; tự phục hồi giỏ nháp; ca thu ngân; nhà cung cấp và phiếu nhập; chuyển kho đa chi nhánh; báo cáo lãi gộp; kênh tự cập nhật an toàn bằng SHA-256.",
-    "sha256":  "b78592b191937836ebfff29e0a75c3422fb80fa927e7559ee76e29eab5079cf7",
+    "latestVersionCode":  11,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.0.0/Kiotly-3.0.0-release.apk",
+    "changelog":  "Kiotly 3.0: giao diện hổ phách-navy chuyên nghiệp; phân quyền nhân viên bằng PIN và audit log; đa đơn vị/barcode, combo, lô-HSD và FEFO; thanh toán nhiều phương thức, sổ quỹ, công nợ nhà cung cấp; khuyến mãi và điểm khách hàng; đơn đặt/trả nhà cung cấp, giao hàng, in tem và báo cáo vận hành nâng cao.",
+    "sha256":  "8af2be9ff04c26453d9fc8626f5361837ce6c995169258e1ca106192a5d24a38",
     "isForceUpdate":  false
 }
