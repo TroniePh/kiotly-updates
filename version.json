@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  11,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.0.0/Kiotly-3.0.0-release.apk",
-    "changelog":  "Kiotly 3.0: giao diện hổ phách-navy chuyên nghiệp; phân quyền nhân viên bằng PIN và audit log; đa đơn vị/barcode, combo, lô-HSD và FEFO; thanh toán nhiều phương thức, sổ quỹ, công nợ nhà cung cấp; khuyến mãi và điểm khách hàng; đơn đặt/trả nhà cung cấp, giao hàng, in tem và báo cáo vận hành nâng cao.",
-    "sha256":  "8af2be9ff04c26453d9fc8626f5361837ce6c995169258e1ca106192a5d24a38",
+    "latestVersionCode":  12,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.0.1/Kiotly-3.0.1-release.apk",
+    "changelog":  "Kiotly 3.0.1: kích hoạt đăng nhập Firebase Email/Mật khẩu, đồng bộ Firestore đa thiết bị và Crashlytics; bổ sung cấu hình debug an toàn; sửa phiên đăng ký mới để nhận quyền Admin ngay khi hồ sơ cloud được tạo.",
+    "sha256":  "6ab73acc714e4cf7b6876f61b4c6e1e842b1d54a527db194c310c0cf15b6254d",
     "isForceUpdate":  false
 }
