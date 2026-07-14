@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  12,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.0.1/Kiotly-3.0.1-release.apk",
-    "changelog":  "Kiotly 3.0.1: kích hoạt đăng nhập Firebase Email/Mật khẩu, đồng bộ Firestore đa thiết bị và Crashlytics; bổ sung cấu hình debug an toàn; sửa phiên đăng ký mới để nhận quyền Admin ngay khi hồ sơ cloud được tạo.",
-    "sha256":  "6ab73acc714e4cf7b6876f61b4c6e1e842b1d54a527db194c310c0cf15b6254d",
-    "isForceUpdate":  false
+    "latestVersionCode":  13,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.1.0/Kiotly-3.1.0-release.apk",
+    "changelog":  "Kiotly 3.1.0: sửa lỗi Firestore không đọc được khách hàng sau khi tối ưu APK; giữ an toàn toàn bộ model đồng bộ qua R8 và thay lỗi kỹ thuật bằng thông báo tiếng Việt. Làm mới giao diện thương mại với navy làm màu chính, nền trắng-xám rõ dữ liệu; vàng chỉ còn là điểm nhấn thương hiệu.",
+    "sha256":  "0d4e6aaffb707a5c163a426fdc44f7a7ed457bdbaf6c85d228ab8438fbaad163",
+    "isForceUpdate":  true
 }
