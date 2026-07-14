@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  13,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.1.0/Kiotly-3.1.0-release.apk",
-    "changelog":  "Kiotly 3.1.0: sửa lỗi Firestore không đọc được khách hàng sau khi tối ưu APK; giữ an toàn toàn bộ model đồng bộ qua R8 và thay lỗi kỹ thuật bằng thông báo tiếng Việt. Làm mới giao diện thương mại với navy làm màu chính, nền trắng-xám rõ dữ liệu; vàng chỉ còn là điểm nhấn thương hiệu.",
-    "sha256":  "0d4e6aaffb707a5c163a426fdc44f7a7ed457bdbaf6c85d228ab8438fbaad163",
-    "isForceUpdate":  true
+    "latestVersionCode":  14,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.2.0/Kiotly-3.2.0-release.apk",
+    "changelog":  "Đăng nhập rõ lỗi bằng tiếng Việt; thêm Quên mật khẩu; quản trị tạo tài khoản nhân viên đăng nhập được trên máy khác; đồng bộ đúng quyền nhân viên; đổi nền logo, launcher và splash sang xanh navy.",
+    "sha256":  "6a154983843cf6ba2036537001d589c86f0930b33f36a01939dab9bd94dd446b",
+    "isForceUpdate":  false
 }
