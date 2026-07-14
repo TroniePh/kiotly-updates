@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  14,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.2.0/Kiotly-3.2.0-release.apk",
-    "changelog":  "Đăng nhập rõ lỗi bằng tiếng Việt; thêm Quên mật khẩu; quản trị tạo tài khoản nhân viên đăng nhập được trên máy khác; đồng bộ đúng quyền nhân viên; đổi nền logo, launcher và splash sang xanh navy.",
-    "sha256":  "6a154983843cf6ba2036537001d589c86f0930b33f36a01939dab9bd94dd446b",
+    "latestVersionCode":  15,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.2.1/Kiotly-3.2.1-release.apk",
+    "changelog":  "Làm mới trải nghiệm tài khoản: dialog xác nhận chuyên nghiệp sau đăng ký, thông báo kiểm tra email rõ ràng khi quên mật khẩu, yêu cầu Firebase gửi email theo ngôn ngữ tiếng Việt và thông báo tạo nhân viên dễ hiểu hơn.",
+    "sha256":  "c69010a621461e9cd81562a249dcba6094e5fd3f9ef8d99c47531981cc365cb9",
     "isForceUpdate":  false
 }
