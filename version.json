@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  19,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.3.3/Kiotly-3.3.3-release.apk",
-    "changelog":  "Sửa màn Bán hàng trên điện thoại: danh sách sản phẩm và ô quét luôn hiển thị sau khi thêm hàng, thanh giỏ được ghim đúng ở đáy. Chặn bấm thanh toán hai lần, giữ dialog khi lưu lỗi và chỉ đóng sau khi đơn thành công.",
-    "sha256":  "ff906bc32c8d608f4d88f6347b414a4a84b1aba2b0125b0d081dd248e2531fb4",
+    "latestVersionCode":  20,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.4.0/Kiotly-3.4.0-release.apk",
+    "changelog":  "Thiết kế lại điều hướng vận hành theo chuẩn POS quản lý: thêm Tổng quan doanh thu, đơn, tồn thấp và công nợ; menu đáy 5 mục Tổng quan/Bán hàng/Đơn hàng/Hàng hóa/Thêm; gom khách hàng, báo cáo, kho, nhân viên, ca, thu chi, khuyến mãi, thiết bị và dữ liệu vào đúng nhóm dễ tìm.",
+    "sha256":  "284a91bd5289d8d1e328a8ee779110fcd4081b70c587ac264b16d204a3e6b2c0",
     "isForceUpdate":  false
 }
