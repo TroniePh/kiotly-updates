@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  20,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.4.0/Kiotly-3.4.0-release.apk",
-    "changelog":  "Thiết kế lại điều hướng vận hành theo chuẩn POS quản lý: thêm Tổng quan doanh thu, đơn, tồn thấp và công nợ; menu đáy 5 mục Tổng quan/Bán hàng/Đơn hàng/Hàng hóa/Thêm; gom khách hàng, báo cáo, kho, nhân viên, ca, thu chi, khuyến mãi, thiết bị và dữ liệu vào đúng nhóm dễ tìm.",
-    "sha256":  "284a91bd5289d8d1e328a8ee779110fcd4081b70c587ac264b16d204a3e6b2c0",
+    "latestVersionCode":  21,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.5.0/Kiotly-3.5.0-release.apk",
+    "changelog":  "Nâng cấp giao diện vận hành POS: font Inter và bộ màu xanh chuyên nghiệp; màn bán hàng mật độ cao với số lượng ngay trên thẻ hàng và thanh giỏ/thanh toán cố định; máy quét HID gọn hơn; danh sách đơn có tìm kiếm, lọc hôm nay/công nợ/trả hàng; kho có tổng quan tồn, lọc tồn thấp và thao tác nhập hàng nhanh; khách hàng có tổng công nợ và thu nợ nhanh; menu nghiệp vụ đầy đủ và sửa điều hướng Bán hàng.",
+    "sha256":  "e42092897c17449f1d7978eff98194e8d8fca2dc9155709721aa73f01afa5a26",
     "isForceUpdate":  false
 }
