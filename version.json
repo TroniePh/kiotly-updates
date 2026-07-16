@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  21,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.5.0/Kiotly-3.5.0-release.apk",
-    "changelog":  "Nâng cấp giao diện vận hành POS: font Inter và bộ màu xanh chuyên nghiệp; màn bán hàng mật độ cao với số lượng ngay trên thẻ hàng và thanh giỏ/thanh toán cố định; máy quét HID gọn hơn; danh sách đơn có tìm kiếm, lọc hôm nay/công nợ/trả hàng; kho có tổng quan tồn, lọc tồn thấp và thao tác nhập hàng nhanh; khách hàng có tổng công nợ và thu nợ nhanh; menu nghiệp vụ đầy đủ và sửa điều hướng Bán hàng.",
-    "sha256":  "e42092897c17449f1d7978eff98194e8d8fca2dc9155709721aa73f01afa5a26",
+    "latestVersionCode":  22,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.6.0/Kiotly-3.6.0-release.apk",
+    "changelog":  "Thanh toán VietQR hoàn chỉnh: chọn ngân hàng thay vì nhập BIN; hỗ trợ 38 ngân hàng và kênh chuyển khoản phổ biến; tự sinh QR đúng tổng tiền; hiển thị ngân hàng, số tài khoản, tên chủ tài khoản và mã thanh toán; lưu mã chuyển khoản vào hóa đơn để đối soát; kiểm tra bắt buộc thông tin tài khoản trước khi lưu.",
+    "sha256":  "39a7deac268d54556d4e8d2cb02af4088bfc78a8e663008bbe0605b86195a236",
     "isForceUpdate":  false
 }
