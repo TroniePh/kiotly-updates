@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  22,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.6.0/Kiotly-3.6.0-release.apk",
-    "changelog":  "Thanh toán VietQR hoàn chỉnh: chọn ngân hàng thay vì nhập BIN; hỗ trợ 38 ngân hàng và kênh chuyển khoản phổ biến; tự sinh QR đúng tổng tiền; hiển thị ngân hàng, số tài khoản, tên chủ tài khoản và mã thanh toán; lưu mã chuyển khoản vào hóa đơn để đối soát; kiểm tra bắt buộc thông tin tài khoản trước khi lưu.",
-    "sha256":  "39a7deac268d54556d4e8d2cb02af4088bfc78a8e663008bbe0605b86195a236",
+    "latestVersionCode":  23,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.7.0/Kiotly-3.7.0-release.apk",
+    "changelog":  "Chuẩn hóa vận hành POS: các menu Nhập hàng, Nhà cung cấp, Kiểm kho, Chuyển kho, Đơn đặt nhập, Trả hàng nhập, Lô/HSD và In tem mở thẳng đúng nghiệp vụ; bổ sung Xuất hủy có trừ tồn, lý do và Sổ kho; sửa quyền Tổng quan doanh thu, nút Xóa khách không phản hồi và Trung tâm vận hành mở sai quyền; ẩn cấu hình tích hợp chưa có adapter thật.",
+    "sha256":  "1d3464838ee5d1ea5fed739aa75f88dce55269a225e2a92e8db734906cf8bfbe",
     "isForceUpdate":  false
 }
