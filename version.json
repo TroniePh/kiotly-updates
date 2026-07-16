@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  16,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.3.0/Kiotly-3.3.0-release.apk",
-    "changelog":  "Đồng bộ tồn kho đa thiết bị theo sổ biến động; quản lý và khóa nhân viên trên mọi thiết bị; sao lưu/khôi phục Room mã hóa; trạng thái quầy thu ngân và phím F2; thanh toán nhanh và VietQR động; cải thiện ổn định Firebase.",
-    "sha256":  "9399f166b331c193a69d4c0470c9d880bfe434da800956b47429e610e0d94059",
+    "latestVersionCode":  17,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.3.1/Kiotly-3.3.1-release.apk",
+    "changelog":  "Thanh toán khách lẻ nhanh hơn: chọn phương thức và xác nhận; gợi ý số tiền khách đưa và tiền thừa; tự điền đủ chuyển khoản, thẻ, ví; thu gọn giảm giá, khách hàng, điểm, ghi nợ và chia tiền vào phần mở rộng.",
+    "sha256":  "2fb9f9f86ccd2af6bbae3891ca2c613bec4b29ef7098996935354ceb7610fab2",
     "isForceUpdate":  false
 }
