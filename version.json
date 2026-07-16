@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  18,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.3.2/Kiotly-3.3.2-release.apk",
-    "changelog":  "Sửa lỗi nhập Excel trên Android do XML parser không hỗ trợ XInclude; hỗ trợ file .xlsx từ Kiotly, Excel và LibreOffice; thay thông báo kỹ thuật bằng hướng dẫn tiếng Việt dễ hiểu.",
-    "sha256":  "901f0129cee48f35cb16e7dfcb436164fad2689adfb78a1371f249c5df09344f",
+    "latestVersionCode":  19,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.3.3/Kiotly-3.3.3-release.apk",
+    "changelog":  "Sửa màn Bán hàng trên điện thoại: danh sách sản phẩm và ô quét luôn hiển thị sau khi thêm hàng, thanh giỏ được ghim đúng ở đáy. Chặn bấm thanh toán hai lần, giữ dialog khi lưu lỗi và chỉ đóng sau khi đơn thành công.",
+    "sha256":  "ff906bc32c8d608f4d88f6347b414a4a84b1aba2b0125b0d081dd248e2531fb4",
     "isForceUpdate":  false
 }
