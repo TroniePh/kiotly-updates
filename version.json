@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  23,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.7.0/Kiotly-3.7.0-release.apk",
-    "changelog":  "Chuẩn hóa vận hành POS: các menu Nhập hàng, Nhà cung cấp, Kiểm kho, Chuyển kho, Đơn đặt nhập, Trả hàng nhập, Lô/HSD và In tem mở thẳng đúng nghiệp vụ; bổ sung Xuất hủy có trừ tồn, lý do và Sổ kho; sửa quyền Tổng quan doanh thu, nút Xóa khách không phản hồi và Trung tâm vận hành mở sai quyền; ẩn cấu hình tích hợp chưa có adapter thật.",
-    "sha256":  "1d3464838ee5d1ea5fed739aa75f88dce55269a225e2a92e8db734906cf8bfbe",
+    "latestVersionCode":  24,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.8.0/Kiotly-3.8.0-release.apk",
+    "changelog":  "Thiết kế lại toàn bộ màn Thanh toán theo luồng quầy POS: tổng khách cần trả nổi bật; chọn tiền mặt/chuyển khoản/thẻ/ví một chạm; tiền khách đưa và gợi ý mệnh giá đặt ngay dưới; VietQR hiển thị trực tiếp; tiền thừa/còn thiếu rõ ràng; khách hàng, giảm giá và tích điểm thu gọn; chia nhiều phương thức vẫn được giữ; nút Hoàn tất cố định và dễ bấm.",
+    "sha256":  "1fc4904e22b72869b7d57045948e0a691503d19a2fc5acfef97c1007edd9f2ab",
     "isForceUpdate":  false
 }
