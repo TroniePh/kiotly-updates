@@ -1,7 +1,7 @@
 {
     "latestVersionCode":  25,
     "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.9.0/Kiotly-3.9.0-release.apk",
-    "changelog":  "Hiển thị biểu đồ doanh thu rõ ngay từ ngày bán đầu tiên. Sửa đồng bộ Firebase theo đúng quyền quản trị, nhập kho và trả hàng; không còn để dữ liệu cục bộ ngoài quyền làm hỏng toàn bộ lượt đồng bộ. Cập nhật quyền nhân viên lên cloud an toàn hơn.",
-    "sha256":  "abb4e1e912e9ae4e73b36bfa8641a1e484dcde3428d5be5e18e687d4590280a8",
+    "changelog":  "Hiển thị biểu đồ doanh thu rõ ngay từ ngày bán đầu tiên. Sửa đồng bộ Firebase theo đúng quyền quản trị, nhập kho và trả hàng; hỗ trợ cả tài khoản nhân viên cũ chưa có trường quyền trên hồ sơ cloud. Không còn để dữ liệu cục bộ ngoài quyền làm hỏng toàn bộ lượt đồng bộ.",
+    "sha256":  "3a7963ce0d6c671ac596a1ee4a4d4d062e587301251e379688e5004984d9b318",
     "isForceUpdate":  false
 }
