@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  25,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.9.0/Kiotly-3.9.0-release.apk",
-    "changelog":  "Hiển thị biểu đồ doanh thu rõ ngay từ ngày bán đầu tiên. Sửa đồng bộ Firebase theo đúng quyền quản trị, nhập kho và trả hàng; hỗ trợ cả tài khoản nhân viên cũ chưa có trường quyền trên hồ sơ cloud. Không còn để dữ liệu cục bộ ngoài quyền làm hỏng toàn bộ lượt đồng bộ.",
-    "sha256":  "3a7963ce0d6c671ac596a1ee4a4d4d062e587301251e379688e5004984d9b318",
+    "latestVersionCode":  26,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.10.0/Kiotly-3.10.0-release.apk",
+    "changelog":  "Chuẩn hóa biểu đồ hiệu quả kinh doanh: đúng số ngày lịch, có ngày 0 đồng, doanh thu thuần sau trả hàng, nhãn ngày dd/MM và trục tiền dễ đọc. Cột doanh thu vẫn hiển thị khi mới chỉ có một ngày bán.",
+    "sha256":  "442ed4346ee27c16d2f45b9688e3ddab3d8b7438374de0c1f16af43c79b81d9a",
     "isForceUpdate":  false
 }
