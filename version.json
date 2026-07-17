@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  24,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.8.0/Kiotly-3.8.0-release.apk",
-    "changelog":  "Thiết kế lại toàn bộ màn Thanh toán theo luồng quầy POS: tổng khách cần trả nổi bật; chọn tiền mặt/chuyển khoản/thẻ/ví một chạm; tiền khách đưa và gợi ý mệnh giá đặt ngay dưới; VietQR hiển thị trực tiếp; tiền thừa/còn thiếu rõ ràng; khách hàng, giảm giá và tích điểm thu gọn; chia nhiều phương thức vẫn được giữ; nút Hoàn tất cố định và dễ bấm.",
-    "sha256":  "1fc4904e22b72869b7d57045948e0a691503d19a2fc5acfef97c1007edd9f2ab",
+    "latestVersionCode":  25,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.9.0/Kiotly-3.9.0-release.apk",
+    "changelog":  "Hiển thị biểu đồ doanh thu rõ ngay từ ngày bán đầu tiên. Sửa đồng bộ Firebase theo đúng quyền quản trị, nhập kho và trả hàng; không còn để dữ liệu cục bộ ngoài quyền làm hỏng toàn bộ lượt đồng bộ. Cập nhật quyền nhân viên lên cloud an toàn hơn.",
+    "sha256":  "abb4e1e912e9ae4e73b36bfa8641a1e484dcde3428d5be5e18e687d4590280a8",
     "isForceUpdate":  false
 }
