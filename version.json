@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  26,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.10.0/Kiotly-3.10.0-release.apk",
-    "changelog":  "Chuẩn hóa biểu đồ hiệu quả kinh doanh: đúng số ngày lịch, có ngày 0 đồng, doanh thu thuần sau trả hàng, nhãn ngày dd/MM và trục tiền dễ đọc. Cột doanh thu vẫn hiển thị khi mới chỉ có một ngày bán.",
-    "sha256":  "442ed4346ee27c16d2f45b9688e3ddab3d8b7438374de0c1f16af43c79b81d9a",
+    "latestVersionCode":  28,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.10.2/Kiotly-3.10.2-release.apk",
+    "changelog":  "Sửa lỗi đồng bộ Firestore theo đúng quyền tài khoản; tài khoản nhân viên không còn bị chặn bởi dữ liệu quản trị hoặc kho ngoài quyền. Cải thiện độ ổn định khi lưu và phục hồi giỏ hàng trên tablet.",
+    "sha256":  "961b6fca1ab6aceb7c43cf65097b8e9019dc74f286573d8a89f9a58f7d60fe33",
     "isForceUpdate":  false
 }
