@@ -1,7 +1,7 @@
 {
-    "latestVersionCode":  28,
-    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.10.2/Kiotly-3.10.2-release.apk",
-    "changelog":  "Sửa lỗi đồng bộ Firestore theo đúng quyền tài khoản; tài khoản nhân viên không còn bị chặn bởi dữ liệu quản trị hoặc kho ngoài quyền. Cải thiện độ ổn định khi lưu và phục hồi giỏ hàng trên tablet.",
-    "sha256":  "961b6fca1ab6aceb7c43cf65097b8e9019dc74f286573d8a89f9a58f7d60fe33",
+    "latestVersionCode":  29,
+    "apkUrl":  "https://github.com/TroniePh/kiotly-updates/releases/download/v3.10.3/Kiotly-3.10.3-release.apk",
+    "changelog":  "Quét camera liên tục nhiều sản phẩm; máy quét USB/Bluetooth luôn giữ focus. Bổ sung giá và barcode riêng cho chai/lốc/thùng; giỏ hàng hiển thị rõ số lượng đơn vị lẻ bị trừ.",
+    "sha256":  "6a5c349c0113eef7cbf7ec4fdac7ea961083894c0f1bcdac1d912c307c638a83",
     "isForceUpdate":  false
 }
